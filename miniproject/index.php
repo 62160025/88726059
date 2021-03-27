@@ -87,7 +87,7 @@
                         <div class="card h-100">
                             <div class="row g-0">
                                 <div class="col-md-4 d-flex align-items-center">
-                                    <img class="img-fluid" src="' . $img . '">
+                                    <img class="img-fluid" src="' . $shirtimg . '">
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
