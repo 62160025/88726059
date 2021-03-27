@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "name": "YEW Shirt",
+            "des": "SIZE M L XL",
+            "img": "yew3.jpg",
+            "artistName": "YEW BAND",
+            "price": 500
+        },
+        {
+            "name": "Anatomy Shirt",
+            "des": "SIZE M L XL",
+            "img": "anatomy.jpg",
+            "artistName": "Anatomy rabbit",
+            "price": 500
+        },
+        {
+            "name": "doorpant Shirt",
+            "des": "SIZE M L XL",
+            "img": "doorpant.jpg",
+            "artistName": "doorpant",
+            "price": 500
+        },
+        {
+            "name": "etc Shirt",
+            "des": "SIZE M L XL",
+            "img": "etc.jpg",
+            "artistName": "etc",
+            "price": 500
+        },
+        {
+            "name": "slur Shirt",
+            "des": "SIZE M L XL",
+            "img": "slur.jpg",
+            "artistName": "slur",
+            "price": 500
+        }
+    ]
+}
